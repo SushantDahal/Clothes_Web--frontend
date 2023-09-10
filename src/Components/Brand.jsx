@@ -11,7 +11,7 @@ function Brand() {
     <div className="w-full  md:text-[82px] text-7xl py-16 ">
       <div className="bg-[#EBD96B] px-10 justify-center  grid gap-8 py-4 md:flex">
         <img
-          className="md:w-[170px] w-[200px] h-[55px] md:max-h-[50px] hover:translate-y-2 duration-150  "
+          className="md:w-[170px]  w-[200px] h-[55px] md:max-h-[50px] hover:translate-y-2 duration-150  "
           alt="/"
           src={Hm}
         />
@@ -37,7 +37,7 @@ function Brand() {
           src={Amazon}
         />
         <img
-          className="md:w-[170px] w-[200px] h-[55px] md:max-h-[50px] hover:translate-y-2 duration-150   flex md:hidden"
+          className="md:w-[170px] w-[200px] h-[55px] md:max-h-[50px] hover:translate-y-2 duration-150   flex md:hidden "
           alt="/"
           src={Obey}
         />
