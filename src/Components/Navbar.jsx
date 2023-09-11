@@ -16,9 +16,9 @@ function Navbar() {
         <li className="px-4 text-[18px] py-2">Catalogue</li>
         <li className="px-4 text-[18px] py-2">Fashion</li>
         <li className="px-4 text-[18px] py-2">Favourite</li>
-        <li className="pl-4 mr-4 text-[18px] py-2">Lifestyle</li>
+        <li className="pl-4 mr-6 text-[18px] py-2">Lifestyle</li>
       </ul>
-      <button className="md:block hidden mx-2 bg-black w-[100px]  py-2 text-[14px]   text-white rounded uppercase">
+      <button className="md:block hidden ml-4 bg-black w-[90px]  py-2 text-[14px]   text-white rounded uppercase">
         Sign In
       </button>
 
