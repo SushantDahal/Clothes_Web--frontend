@@ -12,7 +12,7 @@ function Favourite() {
         <img src={Small} alt="/" className="absolute pl-[180px] pt-3 " />
       </div>
       <div className="py-3 grid md:grid-cols-2 gap-12 max-w-[1240px] px-4 mx-auto ">
-        <div className="max-w-[600px] ">
+        <div className="max-w-[600px] mx-auto">
           <img src={Favourite1} alt="/" className=" h-[400px]" />
           <div className="ml-8 grid grid-cols-3">
             <div className="col-span-2">
@@ -31,7 +31,7 @@ function Favourite() {
             />
           </div>
         </div>
-        <div className="max-w-[600px] ">
+        <div className="max-w-[600px] mx-auto ">
           <img src={Favourite2} alt="/" className=" h-[400px]" />
           <div className="ml-8 grid grid-cols-3">
             <div className="col-span-2">
