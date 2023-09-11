@@ -9,9 +9,9 @@ function ArrivalsCard(props) {
         src={props.img}
         alt="/"
       />
-      <div className="ml-4 grid grid-cols-3">
+      <div className="ml-8 grid grid-cols-3">
         <div className="col-span-2">
-          <h2 className="text-black font-bold md:text-[16px] text-2xl pt-2 ">
+          <h2 className="text-black font-bold md:text-[16px] text-2xl ">
             {props.name}
           </h2>
 

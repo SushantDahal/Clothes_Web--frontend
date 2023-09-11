@@ -4,6 +4,7 @@ import Home from "./Components/Home";
 import Brand from "./Components/Brand";
 import Arrivals from "./Components/Arrivals";
 import Sale from "./Components/Sale";
+import Favourite from "./Components/Favourite";
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
       <Brand />
       <Arrivals />
       <Sale />
+      <Favourite />
     </div>
   );
 }
