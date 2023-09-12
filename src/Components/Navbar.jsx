@@ -12,13 +12,13 @@ function Navbar() {
     <div className="flex justify-between items-center h-18 text-xl mx-auto max-w-[1240px] p-4 py-8">
       <img className=" bg-white w-[8rem] " src={Logo} alt="/" />
 
-      <ul className="uppercase hidden md:flex absolute right-[150px]">
+      <ul className="uppercase hidden md:flex  right-[150px]">
         <li className="px-4 text-[18px] py-2">Catalogue</li>
         <li className="px-4 text-[18px] py-2">Fashion</li>
         <li className="px-4 text-[18px] py-2">Favourite</li>
         <li className="pl-4 mr-6 text-[18px] py-2">Lifestyle</li>
       </ul>
-      <button className="md:block hidden ml-4 bg-black w-[90px]  py-2 text-[14px]   text-white rounded uppercase">
+      <button className="md:block hidden  ml-4 bg-black w-[90px]  py-2 text-[14px]   text-white rounded uppercase">
         Sign In
       </button>
 
