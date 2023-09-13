@@ -22,7 +22,7 @@ function Sale() {
           <img src={Star1} alt="/" className="absolute bottom-9 right-6 w-18" />
         </div>
         <div className="flex bg-[#f1d34b]  py-6 justify-center items-center ">
-          <div className="">
+          <div className="px-4">
             <div>
               <h1 className="bg-white font-bold w-[280px] text-6xl md:text-7xl -skew-y-6  ">
                 PAYDAY

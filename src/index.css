@@ -11,3 +11,8 @@
 body {
   background-color: #ffffff;
 }
+li:hover {
+  color: Red;
+  transition: ease-in 0.2s;
+  cursor: pointer;
+}

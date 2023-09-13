@@ -7,6 +7,7 @@ import Sale from "./Components/Sale";
 import Favourite from "./Components/Favourite";
 import Voucher from "./Components/Voucher";
 import Newsletter from "./Components/Newsletter";
+import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
       <Favourite />
       <Voucher />
       <Newsletter />
+      <Footer />
     </div>
   );
 }
