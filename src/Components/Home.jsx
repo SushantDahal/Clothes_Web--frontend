@@ -35,7 +35,7 @@ function Home() {
                 alt="/"
                 className="md:w-[200px] w-[150px] h-[30px]  my-auto"
               />
-              <button className="bg-black text-white md:w-[140px] rounded py-3 ml-8 w-[100px]">
+              <button className="bg-black text-white md:w-[140px] hover:scale-125 hover:rotate-2 duration-100  rounded py-3 ml-8 w-[100px]">
                 Shop Now
               </button>
             </div>

@@ -18,7 +18,7 @@ function Navbar() {
         <li className="px-4 text-[18px] py-2">Favourite</li>
         <li className="pl-4 mr-6 text-[18px] py-2">Lifestyle</li>
       </ul>
-      <button className="md:block hidden  ml-4 bg-black w-[90px]  py-2 text-[14px]   text-white rounded uppercase">
+      <button className="md:block hidden hover:scale-125 hover:rotate-2 duration-100 ml-4 bg-black w-[110px]  py-2 text-[14px]   text-white rounded uppercase">
         Sign In
       </button>
 
@@ -39,7 +39,7 @@ function Navbar() {
           <li className="p-6 ">Favourite</li>
           <li className="p-6 ">Lifestyle</li>
         </ul>
-        <button className=" bg-black w-[120px] py-3 m-5  text-white rounded uppercase">
+        <button className="hover:scale-125 hover:rotate-2 duration-100  bg-black w-[120px] py-3 m-5  text-white rounded uppercase">
           Sign in
         </button>
       </div>

@@ -42,7 +42,7 @@ function Sale() {
               </h3>
               <p className="text-xl ml-2 py-2">*Terms & Conditions apply</p>
             </div>
-            <button className="w-[160px] bg-black text-white py-4 rounded-lg">
+            <button className="w-[160px] hover:scale-125 hover:rotate-2 duration-100  bg-black text-white py-4 rounded-lg">
               Shop Now
             </button>
           </div>

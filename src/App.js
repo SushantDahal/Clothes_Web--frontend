@@ -5,6 +5,8 @@ import Brand from "./Components/Brand";
 import Arrivals from "./Components/Arrivals";
 import Sale from "./Components/Sale";
 import Favourite from "./Components/Favourite";
+import Voucher from "./Components/Voucher";
+import Newsletter from "./Components/Newsletter";
 function App() {
   return (
     <div className="App">
@@ -14,6 +16,8 @@ function App() {
       <Arrivals />
       <Sale />
       <Favourite />
+      <Voucher />
+      <Newsletter />
     </div>
   );
 }
