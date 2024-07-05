@@ -6,9 +6,9 @@ import FavouriteCard from "./FavouriteCard";
 
 function Favourite() {
   return (
-    <div className="py-10 text-black">
+    <div className="max-w-[1240px] mx-auto py-10 text-black">
       <div className="font-bold my-4 flex uppercase max-w-[500px] ml-14 justify-center md:justify-normal">
-        <h1 className="text-3xl ml-4 md:text-4xl z-20  ">Young's Favourite</h1>
+        <h1 className="text-3xl  md:text-4xl z-20  ">Young's Favourite</h1>
         <img src={Small} alt="/" className="absolute pl-[180px] pt-3 " />
       </div>
       <div className="py-3 grid md:grid-cols-2 gap-12 max-w-[1240px] px-4 mx-auto ">

@@ -5,9 +5,9 @@ import small from "../assets/Text.png";
 
 function Arrivals() {
   return (
-    <div className="w-full bg-white pb-16 px-4">
+    <div className="max-w-[1240px] mx-auto bg-white pb-16 px-4">
       <div className="font-bold my-4 flex uppercase max-w-[500px] mx-auto ml-14 justify-center md:justify-normal">
-        <h1 className="text-4xl z-20 ml-4 ">New Arrivals</h1>
+        <h1 className="text-4xl z-20  ">New Arrivals</h1>
         <img src={small} alt="/" className="absolute pl-[110px] pt-2 " />
       </div>
       <div className="max-w-[1240px]  mx-auto grid md:grid-cols-3 gap-8 px-4 justify-center ">
