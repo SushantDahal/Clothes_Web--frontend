@@ -50,7 +50,7 @@ function Home() {
             className="absolute bottom-10 left-7 w-12  "
           />
           <img src={Star} alt="/" className="absolute bottom-9 right-6 " />
-          <img className=" h-full" src={home} alt="/" />
+          <img className=" py-10" src={home} alt="/" />
         </div>
       </div>
     </div>
